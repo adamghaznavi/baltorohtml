@@ -8,15 +8,6 @@
 <?php include_once('includes/head.php');?>
 <body class="page page-template-default default-dark-logo pswp-light-skin responsive-ux navi-show navi-center show-top-space dark-logo header-sticky preload">
 
-<!-- LOADER 
-    <div class="page-loading fullscreen-wrap visible">
-        <div class="page-loading-inn">
-            <div class="page-loading-transform">
-                <div class="site-loading-logo"><img src="img/loading.png" alt="Baltoro" /></div>
-            </div>
-        </div>
-    </div> --> 
-
 <!-- MAIN WRAP -->
 <div id="wrap-outer"> 
   <!-- HEADER -->
@@ -26,7 +17,7 @@
         <div class="header-meta">
           <nav id="navi-header" class="center-ux">
             <div id="navi_wrap">
-				<?php include_once('includes/header.php');?>
+              <?php include_once('includes/header.php');?>
             </div>
           </nav>
           <div class="navi-logo">
@@ -52,7 +43,7 @@
     <div class="menu-panel-inn fullscreen-wrap">
       <nav id="navi">
         <div id="navi-wrap" class="menu-navi-wrap">
-			<?php  include_once('includes/menu.php');?>
+          <?php  include_once('includes/menu.php');?>
         </div>
       </nav>
       <div id="menu-panel-bottom" class="container-fluid">
@@ -60,8 +51,6 @@
       </div>
     </div>
   </div>
-  
-  
   
   <!-- MAIN CONTENT -->
   <div id="wrap"> 
@@ -72,23 +61,17 @@
           <section class="container">
             <div class="one-third-c"> <img src="images/Sapphire.jpg" alt=""> </div>
             <div class="two-third-c inner">
-              <div class="submenu"> 
-              	<a href="about.php"> About Baltoro</a> 
-                  <a class="on"  href="philosophy.php" > Philosophy </a> 
-                  <a href="governance.php" > Governance </a> 
-              </div>
+              <div class="submenu"> <a href="about.php"> About Baltoro</a> <a class="on"  href="philosophy.php" > Philosophy </a> <a href="governance.php" > Governance </a> </div>
               <section class="container approach">
                 <div class="row">
                   <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                     <p>Baltoro’s investment philosophy can be divided into 2 aspects; target sectors and deal characteristics. With regards to target sectors, Baltoro looks at providing above, average risk-adjusted returns by looking at sectors that are underpenetrated with significant growth potential in non-cyclical industries, such as power, healthcare, financial services and consumer essentials.</p>
-  </div>
+                  </div>
                   <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                     <p>Secondly, Baltoro looks to secure significant, minority stakes in companies with visionary sponsors and a strong management team. This keeps incentives aligned, as sponsors retain their sense of ownership while Baltoro maintains significant influence through board recommendation and robust shareholder agreements.</p>
                   </div>
                 </div>
-                
               </section>
-              
             </div>
           </section>
         </div>
@@ -103,9 +86,7 @@
           <div class="span6">
             <div id="copyright">Copyright © 2017 Baltoro®. All rights reserved.</div>
           </div>
-          <div class="span6 cr-center">
-            
-          </div>
+          <div class="span6 cr-center"> </div>
           <div class="span6 hidden-xs"></div>
         </div>
       </div>
