@@ -69,9 +69,7 @@
       <div class="">
         <div id="content_wrap">
           <section class="container">
-            <div class="one-third-c"> 
-              <!-- <img class="aligncenter" src="http://creador.com/wp-content/uploads/2017/05/write@2x.png" data-rjs="3"/> --> 
-              <img class="aligncenter" src="../wp-content/uploads/2017/05/write%402x.png" data-rjs="3" width="160" height="184" alt="" data-rjs-processed="true"> </div>
+            <div class="one-third-c"> <img src="images/Sapphire.jpg" alt=""> </div>
             <div class="two-third-c inner">
               <div class="submenu"> 
               <a href="about.html"  class="on" > About Baltoro</a> 
