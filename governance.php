@@ -60,7 +60,7 @@
       <div class="">
         <div id="content_wrap">
           <section class="container">
-            <div class="one-third-c"> <img src="images/Governance.png" alt=""> </div>
+            <div class="one-third-c"> <img src="images/Governance.jpg" alt=""> </div>
             <div class="two-third-c inner">
               <div class="submenu"> 
               	<a href="about.php"  > About Baltoro</a> 

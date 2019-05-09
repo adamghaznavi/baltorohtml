@@ -58,7 +58,7 @@
       <div class="content_wrap_outer fullwrap-layout">
         <div id="content_wrap">
           <section class="container">
-            <div class="one-third-c"> <img src="images/Contact-Us.png" alt=""> </div>
+            <div class="one-third-c"> <img src="images/conatct.jpg" alt=""> </div>
             <div class="two-third-c inner">
               <p>&nbsp;</p>
               <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
