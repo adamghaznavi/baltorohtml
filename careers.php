@@ -8,15 +8,6 @@
 <?php include_once('includes/head.php');?>
 <body class="page page-template-default default-dark-logo pswp-light-skin responsive-ux navi-show navi-center show-top-space dark-logo header-sticky preload">
 
-<!-- LOADER 
-    <div class="page-loading fullscreen-wrap visible">
-        <div class="page-loading-inn">
-            <div class="page-loading-transform">
-                <div class="site-loading-logo"><img src="img/loading.png" alt="Baltoro" /></div>
-            </div>
-        </div>
-    </div> --> 
-
 <!-- MAIN WRAP -->
 <div id="wrap-outer"> 
    <!-- HEADER -->
@@ -55,9 +46,7 @@
           <ul class="menu clearfix">
             <li class="menu-item"><a href="index.php">Home</a></li>
             <li class="menu-item"><a href="about.php">About Us</a></li>
-           
             <li class="menu-item"><a href="ourteam.php">Our Team</a></li>
-           
             <li class="menu-item"><a href="ourbusiness.php">Our Business</a></li>
             <li class="menu-item"><a href="contactus.php">Contact</a></li>
           </ul>

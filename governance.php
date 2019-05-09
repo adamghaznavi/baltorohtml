@@ -8,15 +8,6 @@
 <?php include_once('includes/head.php');?>
 <body class="page page-template-default default-dark-logo pswp-light-skin responsive-ux navi-show navi-center show-top-space dark-logo header-sticky preload">
 
-<!-- LOADER 
-    <div class="page-loading fullscreen-wrap visible">
-        <div class="page-loading-inn">
-            <div class="page-loading-transform">
-                <div class="site-loading-logo"><img src="img/loading.png" alt="Baltoro" /></div>
-            </div>
-        </div>
-    </div> --> 
-
 <!-- MAIN WRAP -->
 <div id="wrap-outer"> 
   <!-- HEADER -->
@@ -69,7 +60,7 @@
       <div class="">
         <div id="content_wrap">
           <section class="container">
-            <div class="one-third-c"> <img src="images/Sapphire.jpg" alt=""> </div>
+            <div class="one-third-c"> <img src="images/Governance.png" alt=""> </div>
             <div class="two-third-c inner">
               <div class="submenu"> 
               	<a href="about.php"  > About Baltoro</a> 
