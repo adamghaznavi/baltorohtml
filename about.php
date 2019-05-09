@@ -1,86 +1,39 @@
 <!DOCTYPE html>
 <html lang="en-US">
+
+<!-- Mirrored from creador.com/our-approach/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 May 2019 11:35:00 GMT -->
+<!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<head>
-<title>Baltoro</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-
-
-<!-- BOOTSTRAP CSS -->
-<link rel='stylesheet' href='css/bootstrap.min.css' type='text/css' media='screen' />
-<!-- FONT/FONT ICON CSS -->
-<link rel='stylesheet' href='css/font-awesome.css' type='text/css' media='screen' />
-<link rel='stylesheet' href='css/font.css' type='text/css' media='screen' />
-<!-- OWL CAROUSEL CSS -->
-<link rel='stylesheet' href='css/owl.carousel.css' type='text/css' media='screen' />
-<!-- LIGHTBOX CSS -->
-<link rel='stylesheet' href='css/photoswipe.css' type='text/css' media='screen' />
-<!-- LIGHTBOX SKIN CSS -->
-<!-- <link rel='stylesheet' href='css/photoswipe/default-skin.css' type='text/css' media='screen' /> -->
-<!-- ELEMENTS CSS -->
-<link rel='stylesheet' href='css/pagebuild.min.css' type='text/css' media='screen' />
-<!-- MAIN CSS -->
-<link rel='stylesheet' href='css/main.min.css' type='text/css' media='screen' />
-<style type="text/css">
-img.wp-smiley, img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<script type='text/javascript' src='js/jqueryb8ff.js?ver=1.12.4'></script>
-<script type='text/javascript' src='js/jquery-migrate.min330a.js?ver=1.4.1'></script>
-<meta name="generator" content="WordPress 4.9.10" />
-<link rel='shortlink' href='index.html' />
-<style type="text/css">
-.recentcomments a {
-	display: inline !important;
-	padding: 0 !important;
-	margin: 0 !important;
-}
-</style>
-<style type="text/css">
-.broken_link, a.broken_link {
-	text-decoration: line-through;
-}
-</style>
-</head>
+<!-- /Added by HTTrack -->
+<?php include_once('includes/head.php');?>
 <body class="page page-template-default default-dark-logo pswp-light-skin responsive-ux navi-show navi-center show-top-space dark-logo header-sticky preload">
+
+<!-- LOADER 
+    <div class="page-loading fullscreen-wrap visible">
+        <div class="page-loading-inn">
+            <div class="page-loading-transform">
+                <div class="site-loading-logo"><img src="img/loading.png" alt="Creador" /></div>
+            </div>
+        </div>
+    </div> --> 
 
 <!-- MAIN WRAP -->
 <div id="wrap-outer"> 
-  
-  <!-- HEADER -->
+   <!-- HEADER -->
   <header id="header" class="">
     <div id="header-main">
       <div class="container"> <span id="navi-trigger"> <span class="navi-trigger-text"> <span class="navi-trigger-text-menu navi-trigger-text-inn">MENU</span> <span class="navi-trigger-text-close navi-trigger-text-inn">CLOSE</span> </span> <span class="navi-trigger-inn"> <span class="navi-trigger-hamberg-line navi-trigger-hamberg-line1"></span> <span class="navi-trigger-hamberg-line navi-trigger-hamberg-line2"></span> <span class="navi-trigger-hamberg-line navi-trigger-hamberg-line3"></span> </span> </span>
         <div class="header-meta">
           <nav id="navi-header" class="center-ux">
             <div id="navi_wrap">
-              <ul id="menu-menu-1" class="menu">
-              <li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-35"><a href="index.html">Home</a></li>
-                <li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-35"><a href="about.html">About Us</a></li>
-                <li id="menu-item-63" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63"><a href="ourteam.html">Our Team</a></li>
-                <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-41"><a href="ourbusiness.html">Our Business</a></li>
-                <li id="menu-item-66" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-66"><a href="careers.html">Careers</a></li>
-               
-                <li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="contactus.html">Contact Us</a></li>
-              </ul>
+				<?php include_once('includes/header.php');?>
             </div>
           </nav>
           <div class="navi-logo">
             <div class="logo-wrap">
               <div id="logo"> <a class="logo-a" href="index.html" title="Creador">
                 <h1 class="logo-h1 logo-not-show-txt">Creador</h1>
-                <img src="images/baltoro-capital-logo.jpg" alt=""> </a> </div>
+                <img src="images/baltoro-capital-logo.tif" alt=""> </a> </div>
             </div>
           </div>
         </div>
@@ -88,7 +41,7 @@ img.wp-smiley, img.emoji {
           <div class="logo-wrap">
             <div id="logo"> <a class="logo-a" href="index.html" title="Creador">
               <h1 class="logo-h1 logo-not-show-txt">Creador</h1>
-              <img src="images/baltoro-capital-logo.jpg" alt=""> </a> </div>
+              <img src="images/baltoro-capital-logo.tif" alt=""> </a> </div>
           </div>
         </div>
       </div>
@@ -117,17 +70,38 @@ img.wp-smiley, img.emoji {
     </div>
   </div>
   
+  
   <!-- MAIN CONTENT -->
-  <div id="wrap" style="margin-bottom: 100px;"> 
+  <div id="wrap"> 
     <!-- CONTENT -->
     <div id="content">
-      <div class="content_wrap_outer fullwrap-layout">
+      <div class="">
         <div id="content_wrap">
           <section class="container">
-            <div class="one-third-c"> <img class="aligncenter" style="margin-top:30px" src="wp-content/themes/creador/assets/img/alpha.png" width="130" height="119" alt="Creador"/> </div>
-            <div class="two-third-c introduction">
-              <p>Creador is a private equity firm focused on partnering with passionate entrepreneurs to grow world-class businesses in South and Southeast Asia.</p>
-              <p>We are committed to leveraging our regional experience, our deep market knowledge and our operational expertise to create superior value for our partners and accelerate their business growth.</p>
+            <div class="one-third-c"> 
+              <!-- <img class="aligncenter" src="http://creador.com/wp-content/uploads/2017/05/write@2x.png" data-rjs="3"/> --> 
+              <img class="aligncenter" src="../wp-content/uploads/2017/05/write%402x.png" data-rjs="3" width="160" height="184" alt="" data-rjs-processed="true"> </div>
+            <div class="two-third-c inner">
+              <div class="submenu"> 
+              <a href="about.html"  class="on" > About Baltoro</a> 
+              <a href="philosophy.html" > Philosophy </a> 
+              <a href="governance.html" > Governance </a> 
+             </div>
+              
+              <section class="container approach">
+                <div class="row">
+                  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                    <p>Baltoro began with a shared vision between committed individuals to transform the business landscape of Pakistan. With their combined experience across global markets, they saw untapped potential in SME financing in Pakistan to take advantage of shifting macroeconomic headwinds that were pushing Pakistan into decades of accelerated growth. They also knew that to fully realize the potential of these companies, they needed strong corporate governance and strategic insights.</p>
+
+
+                  </div>
+                  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                    <p>Thus, the firm’s partners decided to come together and by the end of 2015 created a platform to bridge the gap between capital from investors seeking high, diversified returns and portfolio companies with need for capital and advisory services to help them chart their way through their growth journeys. This was the beginning of Baltoro.</p>
+                  </div>
+                </div>
+                
+              </section>
+              
             </div>
           </section>
         </div>
@@ -158,6 +132,8 @@ img.wp-smiley, img.emoji {
 </div>
 <!-- END MAIN WRAP --> 
 
+<!-- END MAIN WRAP --> 
+
 <!-- JS --> 
 <!-- <script type='text/javascript' src='http://creador.com/js/jquery.min.js'></script> --> 
 <script type='text/javascript' src='js/main.min.js'></script> 
@@ -172,4 +148,6 @@ img.wp-smiley, img.emoji {
         })( jQuery );
     </script>
 </body>
+
+<!-- Mirrored from creador.com/our-approach/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 May 2019 11:35:12 GMT -->
 </html>
