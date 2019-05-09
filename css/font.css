@@ -1,0 +1,64 @@
+/*
+-------------------------------------------------------------------------------
+    Font: PLight
+-------------------------------------------------------------------------------
+*/
+
+@font-face {
+    font-family: "PLight";
+    src: url("../font/p-light.eot");
+    /* IE9 Compat Modes */
+    src: url("../font/p-light-.eot#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../font/p-light.otf") format("opentype"), /* Open Type Font */
+    url("../font/p-light.svg") format("svg"), /* Legacy iOS */
+    url("../font/p-light.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../font/p-light.woff") format("woff"), /* Modern Browsers */
+    url("../font/p-light.woff2") format("woff2");
+    /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/*
+-------------------------------------------------------------------------------
+    Font: ULight
+-------------------------------------------------------------------------------
+*/
+
+@font-face {
+    font-family: "ULight";
+    src: url("../font/u-light.eot");
+    /* IE9 Compat Modes */
+    src: url("../font/u-light-.eot#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../font/u-light.otf") format("opentype"), /* Open Type Font */
+    url("../font/u-light.svg") format("svg"), /* Legacy iOS */
+    url("../font/u-light.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../font/u-light.woff") format("woff"), /* Modern Browsers */
+    url("../font/u-light.woff2") format("woff2");
+    /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/*
+-------------------------------------------------------------------------------
+    Font: URegular
+-------------------------------------------------------------------------------
+*/
+
+@font-face {
+    font-family: "URegular";
+    src: url("../font/u-regular.eot");
+    /* IE9 Compat Modes */
+    src: url("../font/u-regular-.eot#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../font/u-regular.otf") format("opentype"), /* Open Type Font */
+    url("../font/u-regular.svg") format("svg"), /* Legacy iOS */
+    url("../font/u-regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../font/u-regular.woff") format("woff"), /* Modern Browsers */
+    url("../font/u-regular.woff2") format("woff2");
+    /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
