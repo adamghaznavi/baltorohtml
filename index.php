@@ -19,17 +19,17 @@
           </nav>
           <div class="navi-logo">
             <div class="logo-wrap">
-              <div id="logo"> <a class="logo-a" href="index.php" title="Creador">
-                <h1 class="logo-h1 logo-not-show-txt">Creador</h1>
-                <img src="images/baltoro-capital-logo.jpg" alt=""> </a> </div>
+              <div id="logo"> <a class="logo-a" href="index.php" title="Baltoro">
+                <h1 class="logo-h1 logo-not-show-txt">Baltoro</h1>
+                <img src="images/BaltoroCapital-Logo.jpg" alt=""> </a> </div>
             </div>
           </div>
         </div>
         <div class="navi-logo mobile-screen">
           <div class="logo-wrap">
-            <div id="logo"> <a class="logo-a" href="index.php" title="Creador">
-              <h1 class="logo-h1 logo-not-show-txt">Creador</h1>
-              <img src="images/baltoro-capital-logo.jpg" alt=""> </a> </div>
+            <div id="logo"> <a class="logo-a" href="index.php" title="Baltoro">
+              <h1 class="logo-h1 logo-not-show-txt">Baltoro</h1>
+              <img src="images/BaltoroCapital-Logo.jpg" alt=""> </a> </div>
           </div>
         </div>
       </div>
@@ -58,7 +58,7 @@
           <section class="container">
             <div class="one-third-c"> <?php include_once('includes/logo.php');?> </div>
             <div class="two-third-c introduction">
-              <p>Creador is a private equity firm focused on partnering with passionate entrepreneurs to grow world-class businesses in South and Southeast Asia.</p>
+              <p>Baltoro is a private equity firm focused on partnering with passionate entrepreneurs to grow world-class businesses in South and Southeast Asia.</p>
               <p>We are committed to leveraging our regional experience, our deep market knowledge and our operational expertise to create superior value for our partners and accelerate their business growth.</p>
             </div>
           </section>
