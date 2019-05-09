@@ -5,58 +5,7 @@
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <!-- /Added by HTTrack -->
-<head>
-<title>Baltoro</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-
-
-<!-- BOOTSTRAP CSS -->
-<link rel='stylesheet' href='css/bootstrap.min.css' type='text/css' media='screen' />
-<!-- FONT/FONT ICON CSS -->
-<link rel='stylesheet' href='css/font-awesome.css' type='text/css' media='screen' />
-<link rel='stylesheet' href='css/font.css' type='text/css' media='screen' />
-<!-- OWL CAROUSEL CSS -->
-<link rel='stylesheet' href='css/owl.carousel.css' type='text/css' media='screen' />
-<!-- LIGHTBOX CSS -->
-<link rel='stylesheet' href='css/photoswipe.css' type='text/css' media='screen' />
-<!-- LIGHTBOX SKIN CSS -->
-<!-- <link rel='stylesheet' href='css/photoswipe/default-skin.css' type='text/css' media='screen' /> -->
-<!-- ELEMENTS CSS -->
-<link rel='stylesheet' href='css/pagebuild.min.css' type='text/css' media='screen' />
-<!-- MAIN CSS -->
-<link rel='stylesheet' href='css/main.min.css' type='text/css' media='screen' />
-<style type="text/css">
-img.wp-smiley, img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<script type='text/javascript' src='js/jqueryb8ff.js?ver=1.12.4'></script>
-<script type='text/javascript' src='js/jquery-migrate.min330a.js?ver=1.4.1'></script>
-<meta name="generator" content="WordPress 4.9.10" />
-<link rel='shortlink' href='index.html' />
-<style type="text/css">
-.recentcomments a {
-	display: inline !important;
-	padding: 0 !important;
-	margin: 0 !important;
-}
-</style>
-<style type="text/css">
-.broken_link, a.broken_link {
-	text-decoration: line-through;
-}
-</style>
-</head>
+<?php include_once('includes/head.php');?>
 <body class="page page-template-default default-dark-logo pswp-light-skin responsive-ux navi-show navi-center show-top-space dark-logo header-sticky preload">
 
 <!-- LOADER 
@@ -77,15 +26,7 @@ img.wp-smiley, img.emoji {
         <div class="header-meta">
           <nav id="navi-header" class="center-ux">
             <div id="navi_wrap">
-              <ul id="menu-menu-1" class="menu">
-              <li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-35"><a href="index.html">Home</a></li>
-                <li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-35"><a href="about.html">About Us</a></li>
-                <li id="menu-item-63" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63"><a href="ourteam.html">Our Team</a></li>
-                <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-41"><a href="ourbusiness.html">Our Business</a></li>
-                <li id="menu-item-66" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-66"><a href="careers.html">Careers</a></li>
-               
-                <li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="contactus.html">Contact Us</a></li>
-              </ul>
+				<?php include_once('includes/header.php');?>
             </div>
           </nav>
           <div class="navi-logo">
@@ -111,16 +52,7 @@ img.wp-smiley, img.emoji {
     <div class="menu-panel-inn fullscreen-wrap">
       <nav id="navi">
         <div id="navi-wrap" class="menu-navi-wrap">
-          <ul class="menu clearfix">
-            <li class="menu-item"><a href="index.html">Home</a></li>
-            <li class="menu-item"><a href="about.html">About Us</a></li>
-           
-            <li class="menu-item"><a href="ourteam.html">Our Team</a></li>
-           
-            <li class="menu-item"><a href="ourbusiness.html">Our Business</a></li>
-            <li class="menu-item"><a href="careers.html">Careers</a></li>
-            <li class="menu-item"><a href="contactus.html">Contact</a></li>
-          </ul>
+			<?php  include_once('includes/menu.php');?>
         </div>
       </nav>
       <div id="menu-panel-bottom" class="container-fluid">
@@ -128,6 +60,7 @@ img.wp-smiley, img.emoji {
       </div>
     </div>
   </div>
+  
   
   
   <!-- MAIN CONTENT -->
@@ -143,16 +76,17 @@ img.wp-smiley, img.emoji {
             <div class="two-third-c inner">
               <div class="submenu"> 
               	<a href="about.html"  > About Baltoro</a> 
-                  <a  href="philosophy.html" > Philosophy </a> 
-                  <a class="on" href="governance.html" > Governance </a>
-                </div>
-              
+                  <a class="on"  href="philosophy.html" > Philosophy </a> 
+                  <a href="governance.html" > Governance </a> 
+              </div>
               <section class="container approach">
                 <div class="row">
-                  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    <p>Baltoro believes in strong corporate governance practices being a key to generating value for all stakeholders. Baltoro’s approach to strengthening corporate governance is to ensure internationally approved best practices, such as IFC guidelines, are implemented with regards to board and board sub-committee composition, reporting frameworks, control mechanisms and incentive alignment across stakeholders. Baltoro also believes in strong, independent board members being a key source of accountability and governance in the company and utilizes its global network of industry experts to add value through them as well</p>
+                  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                    <p>Baltoro’s investment philosophy can be divided into 2 aspects; target sectors and deal characteristics. With regards to target sectors, Baltoro looks at providing above, average risk-adjusted returns by looking at sectors that are underpenetrated with significant growth potential in non-cyclical industries, such as power, healthcare, financial services and consumer essentials.</p>
   </div>
-                
+                  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                    <p>Secondly, Baltoro looks to secure significant, minority stakes in companies with visionary sponsors and a strong management team. This keeps incentives aligned, as sponsors retain their sense of ownership while Baltoro maintains significant influence through board recommendation and robust shareholder agreements.</p>
+                  </div>
                 </div>
                 
               </section>
