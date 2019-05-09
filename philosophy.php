@@ -73,9 +73,9 @@
             <div class="one-third-c"> <img src="images/Sapphire.jpg" alt=""> </div>
             <div class="two-third-c inner">
               <div class="submenu"> 
-              	<a href="about.html"  > About Baltoro</a> 
-                  <a class="on"  href="philosophy.html" > Philosophy </a> 
-                  <a href="governance.html" > Governance </a> 
+              	<a href="about.php"> About Baltoro</a> 
+                  <a class="on"  href="philosophy.php" > Philosophy </a> 
+                  <a href="governance.php" > Governance </a> 
               </div>
               <section class="container approach">
                 <div class="row">

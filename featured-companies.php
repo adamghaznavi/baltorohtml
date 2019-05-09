@@ -70,7 +70,7 @@
           <section class="container">
            
             <div class="inner">
-              <div class="submenu"> <a href="ourbusiness.html" >Approach </a> <a  class="on"  href="featured-companies.html"> Featured companies </a> </div>
+              <div class="submenu"> <a href="ourbusiness.php" >Approach </a> <a  class="on"  href="featured-companies.php"> Featured companies </a> </div>
               <section class="container approach">
                 <div class="row">
                 	<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
