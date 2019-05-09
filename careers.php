@@ -53,14 +53,14 @@
       <nav id="navi">
         <div id="navi-wrap" class="menu-navi-wrap">
           <ul class="menu clearfix">
-            <li class="menu-item"><a href="index.html">Home</a></li>
-            <li class="menu-item"><a href="about.html">About Us</a></li>
+            <li class="menu-item"><a href="index.php">Home</a></li>
+            <li class="menu-item"><a href="about.php">About Us</a></li>
            
-            <li class="menu-item"><a href="ourteam.html">Our Team</a></li>
+            <li class="menu-item"><a href="ourteam.php">Our Team</a></li>
            
-            <li class="menu-item"><a href="ourbusiness.html">Our Business</a></li>
-            <li class="menu-item"><a href="careers.html">Careers</a></li>
-            <li class="menu-item"><a href="contactus.html">Contact</a></li>
+            <li class="menu-item"><a href="ourbusiness.php">Our Business</a></li>
+            <li class="menu-item"><a href="careers.php">Careers</a></li>
+            <li class="menu-item"><a href="contactus.php">Contact</a></li>
           </ul>
         </div>
       </nav>
@@ -81,9 +81,9 @@
             <div class="one-third-c"> <img src="images/Sapphire.jpg" alt=""> </div>
             <div class="two-third-c inner">
               <div class="submenu"> 
-              <a href="about.html"  class="on" > About Baltoro</a> 
-              <a href="philosophy.html" > Philosophy </a> 
-              <a href="governance.html" > Governance </a> 
+              <a href="about.php"  class="on" > About Baltoro</a> 
+              <a href="philosophy.php" > Philosophy </a> 
+              <a href="governance.php" > Governance </a> 
              </div>
               
               <section class="container approach">

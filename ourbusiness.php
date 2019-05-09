@@ -72,8 +72,8 @@
             <div class="one-third-c"> <img src="images/Sapphire.jpg" alt=""> </div>
             <div class="two-third-c inner">
               <div class="submenu"> 
-              <a href="ourbusiness.html"  class="on" >Approach </a> 
-              <a href="featured-companies.html">  Featured companies </a> 
+              <a href="ourbusiness.php"  class="on" >Approach </a> 
+              <a href="featured-companies.php">  Featured companies </a> 
              </div>
               
               <section class="container approach">
