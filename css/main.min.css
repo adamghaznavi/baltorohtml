@@ -1,3 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,400i');
+body{
+	font-family:'Roboto Condensed', sans-serif !important; 
+}
 .centered-ux,
 .middle-ux {
     position: relative;
@@ -11,14 +16,6 @@ select,
 textarea {
     -webkit-appearance: none
 }
-
-body{
-	background:red; 
-	font-size:14px;
-}
-
-
-
 
 body,
 textarea {
@@ -265,6 +262,7 @@ input[type=search],
 input[type=number],
 input[type=email],
 input[type=url],
+
 input[type=tel],
 input[type=color],
 input[type=text],
@@ -752,10 +750,13 @@ input[type=submit] {
 #logo,
 .logo-a,
 .logo-wrap {
+	
     height: 115px;
     line-height: 90px
 }
-
+.logo-a{
+	width:150px;
+}
 .no-touchevents body.header-sticky.header-scrolling #header {
     /*-webkit-transform: translateY(-80px);
     -moz-transform: translateY(-80px);
@@ -3653,6 +3654,7 @@ li.commlist-unit {
 
 .comm-u-wrap {
     overflow: hidden
+
 }
 
 .comment-author {
@@ -5033,6 +5035,7 @@ body.ux-bordered.show_mobile_menu.border10px #wrap {
     width: auto
 }
 
+
 body.ux-bordered.border20px {
     padding: 20px
 }
@@ -5684,7 +5687,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: PLight, Garamond, Georgia, serif;
+    
     font-weight: 700;
     letter-spacing: .5px
 }
@@ -5692,7 +5695,7 @@ h6 {
 #navi a,
 #navi-header a,
 .navi-trigger-text {
-    font-family: ULight, Helvetica, sans-serif
+    
 }
 
 .logo-h1 {
@@ -5728,7 +5731,7 @@ body.single .title-wrap-tit {
 }
 
 .gallery-info-property-tit {
-    font-family: PLight, Garamond, Georgia, serif;
+   
     font-weight: 700;
     font-size: 16px
 }
@@ -5738,7 +5741,7 @@ body.single .title-wrap-tit {
 .introduction,
 .pagenums,
 .post-navi-single {
-    font-family: ULight, Helvetica, sans-serif
+  
 }
 
 .archive-title .title-wrap-tit,
@@ -5910,7 +5913,7 @@ h6 {
 }
 
 .inner h1 {
-    font-family: ULight, Helvetica, sans-serif;
+    
     font-size: 40px;
     line-height: 1.2;
     width: 70%
@@ -5940,7 +5943,7 @@ h6 {
 
 .inner .date,
 .inner a {
-    font-family: ULight;
+   
     font-weight: 400;
     font-style: normal;
     margin-right: 25px
@@ -6809,7 +6812,7 @@ blockquote i {
         font-size: 28px;
     }
     .inner .date, .inner a {
-        font-family: ULight;
+       
         font-weight: 400;
         font-style: normal;
         /*margin-right: 125px;*/
@@ -6846,7 +6849,7 @@ blockquote i {
         min-height: 195px;
     }
     .inner .date, .inner a {
-        font-family: ULight;
+       
         font-weight: 400;
         font-style: normal;
         margin-right: 10px;
