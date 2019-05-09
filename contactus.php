@@ -22,7 +22,7 @@
           </nav>
           <div class="navi-logo">
             <div class="logo-wrap">
-              <div id="logo"> <a class="logo-a" href="index.html" title="Baltoro">
+              <div id="logo"> <a class="logo-a" href="index.php" title="Baltoro">
                 <h1 class="logo-h1 logo-not-show-txt">Baltoro</h1>
                 <img src="images/BaltoroCapital-Logo.jpg" alt=""> </a> </div>
             </div>
@@ -30,7 +30,7 @@
         </div>
         <div class="navi-logo mobile-screen">
           <div class="logo-wrap">
-            <div id="logo"> <a class="logo-a" href="index.html" title="Baltoro">
+            <div id="logo"> <a class="logo-a" href="index.php" title="Baltoro">
               <h1 class="logo-h1 logo-not-show-txt">Baltoro</h1>
               <img src="images/BaltoroCapital-Logo.jpg" alt=""> </a> </div>
           </div>
